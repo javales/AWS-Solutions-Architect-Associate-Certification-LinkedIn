@@ -14,8 +14,12 @@ https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-1-
 - SaaS - only *use* app
 
 # History of cloud computing
+- Launched in 2004, then re-launched as we know it in 2006
+- AWS certs launched in 2013
 
 # The AWS platform
+- instance = instance/implementation of an AWS machine image
+- primary AWS platform includes compute, storage, database, and networking
 
 # AWS services, part 1
 
