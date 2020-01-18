@@ -22,6 +22,14 @@ https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-1-
 - primary AWS platform includes compute, storage, database, and networking
 
 # AWS services, part 1
+- Compute: EC2, Elastic Beanstalk, Lambda, ECS
+- Storage: (Know All) S3, EFS, Glacier, Storage Gateway
+- Database: RDS, DynamoDB, Elasticache, Amazon Redshift, NOT: Neptune, NOT IN COURSE: Amazon QLDB, Amazon DocumentDB, Managed Cassandra Service
+- Migration: AWS Migration Hub, Application Discovery Service, Data Migration Service, Server Migration Service, Snowball, NOT IN COURSE: AWS Transfer for SFTP, Datasync
+- Networking & Content Delivery: VPC, CloudFront, Route 53, API Gateway, Direct Connect, NOT IN COURSE: AWS App Mesh, AWS Cloud Map, Global Accelerator
+- Developer Tols: NOT COVERED IN EXAM
+- Management & Governance: CloudWatch, AWS Auto Scaling, Cloud Formation, CloudTrail, Trusted Advisor NOT: ... a lot
+
 
 # AWS services, part 2
 
