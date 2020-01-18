@@ -45,9 +45,16 @@ https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-1-
 - Internet Of Things: No major focus
 - Game Development: No major focus
 
-
 # Security and compliance
+- Shared Responsibility Model
+- Customer Responsibility - "in" the cloud, "operating system up"
+- AWS Responsibility - "of" the cloud
 
 # Regions and availability
+- Region - Physical location or boundary with AWS data centers
+- Availability Zone - 1-6 data centers with redundant power and networking
+- Global Infrastructure document: https://aws.amazon.com/about-aws/global-infrastructure/
+- Edge Area/Location - area near customers used by CloudFront
 
 # Chapter Quiz
+- 100%
