@@ -30,8 +30,20 @@ https://www.linkedin.com/learning/aws-certified-solutions-architect-associate-1-
 - Developer Tols: NOT COVERED IN EXAM
 - Management & Governance: CloudWatch, AWS Auto Scaling, Cloud Formation, CloudTrail, Trusted Advisor NOT: ... a lot
 
-
 # AWS services, part 2
+- Media Services: Not a heavy focus
+- Machine Learning: finding patterns in data sets like audio and video, not a lot on test
+- Analytics: most important = Kinesis (for business decisions)
+- Security, Identity, & Compliance: IAM, Cognito, Inspector, AWS Organizations (which is now under Management & Governance), CloudHSM, Directory Service, WAF & Shield
+- AWS Cost Management: AWS Cost Explorer, AWS Budgets
+- Mobile Services: Now called Mobile (Mobile Hub is now AWS Amplify, AWS AppSync, Device Farm)
+- AR & VR: not in depth
+- Application Integration: Most Important = Simple Notification Service, Simple Queue Service
+- Customer Engagement: No major focus
+- Business Productivity: No major focus
+- Desktop & App Streaming: Now called End User Computing
+- Internet Of Things: No major focus
+- Game Development: No major focus
 
 # Security and compliance
 
